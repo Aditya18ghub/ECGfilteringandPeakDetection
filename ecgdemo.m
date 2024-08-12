@@ -71,7 +71,7 @@ for demo = 1:2:3
     
     disp('Average Heart Rate = ');
     disp(averageHeartRate);
-% The code written by Surya Penmetsa Ends here.
+% 
 %% 
     
     %   Create figure - stages of processing
